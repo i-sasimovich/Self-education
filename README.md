@@ -1,2 +1,2 @@
 # Self-education
-Projects and tasks related to online courses
+Projects and tasks related to online courses.
